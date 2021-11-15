@@ -1,6 +1,6 @@
 # Festival-Sales-Prediction-Analysis
 
-![alt text](https://images.app.goo.gl/FYew11h8PyvuActF9")
+
 
 ## Table Of Contents
   - [Project Introduction](#project-introduction)
