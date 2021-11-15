@@ -1,7 +1,6 @@
 # Festival-Sales-Prediction-Analysis
 
-# Black-Friday-Sales-Prediction
-![alt text](https://searchengineland.com/figz/wp-content/seloads/2014/12/black-friday1-ss-1920.jpg "Black Friday Sales Prediction")
+![alt text](https://images.app.goo.gl/FYew11h8PyvuActF9")
 
 ## Table Of Contents
   - [Project Introduction](#project-introduction)
